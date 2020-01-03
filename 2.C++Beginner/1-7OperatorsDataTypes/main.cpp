@@ -33,34 +33,13 @@ int main()
         cout << "A is not equal to b" <<endl;
     }
 
-    //Loops
-    /*
-    cout << "Hello Daniel 1" <<endl;
-    cout << "Hello Daniel 2" <<endl;
-    cout << "Hello Daniel 3" <<endl;
-    cout << "Hello Daniel 4" <<endl;
-    cout << "Hello Daniel 5" <<endl;
-    cout << "Hello Daniel 7" <<endl;
-    cout << "Hello Daniel 8" <<endl;
-    cout << "Hello Daniel 9" <<endl;
-    cout << "Hello Daniel 10" <<endl;
-    cout << "Hello Daniel 11" <<endl;
-    cout << "Hello Daniel 12" <<endl;
-    cout << "Hello Daniel 13" <<endl;
-    cout << "Hello Daniel 14" <<endl;
-    cout << "Hello Daniel 15" <<endl;
-    cout << "Hello Daniel 16" <<endl;
-    cout << "Hello Daniel 17" <<endl;
-    cout << "Hello Daniel 18" <<endl;
-    cout << "Hello Daniel 19" <<endl;
-    cout << "Hello Daniel 20" <<endl;
-    */
+
 
     //For loop
     /*
     for ( int i = 1 ; i <= 20 ; i=i+1)
     {
-        cout << "Hello Daniel "<<i<<endl;
+        cout << "Hello Person"<<i<<endl;
     }
     */
 
@@ -70,7 +49,7 @@ int main()
 
     while ( i <= 20)
     {
-      cout << "Hello Daniel "<<i<<endl;
+      cout << "Hello Person"<<i<<endl;
       i=i+1;
     }
 
@@ -79,7 +58,7 @@ int main()
     int i = 1;
 
     do{
-        cout << "Hello Daniel "<<i<<endl;
+        cout << "Hello Person "<<i<<endl;
         i=i+1;
     }while( i <=20);
 

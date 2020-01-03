@@ -4,7 +4,7 @@ using namespace std;
 //[Return Type] [Function name] [Function Parameters]
 void sayHi()
 {
-   cout << "Hello Daniel!" << endl;
+   cout << "Hello Person!" << endl;
 }
 
 int sumation( int a, int b)
