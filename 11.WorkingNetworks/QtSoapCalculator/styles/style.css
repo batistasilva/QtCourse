@@ -1,0 +1,44 @@
+QLineEdit{
+    color: blue;
+    font-weight : bold;
+    font-size : 30px;
+    padding : 1px;
+    border : 1px solid gray;
+    border-radius : 8px;
+    background-color : white;
+    height : 30px;
+}
+
+QLineEdit#lEResult{
+    color: rgb(255, 0, 128);
+    font-weight : bold;
+    font-size : 60px;
+    padding : 1px;
+    border : 1px solid gray;
+    border-radius : 8px;
+    background-color : white;
+    height : 30px;
+}
+
+
+QLabel, QGroupBox, QPushButton {
+    font-weight : bold;
+    font-size : 20px;
+}
+/*
+QPushButton[text="Submit"] {
+    color : white;
+    background-color : gray;
+}
+
+
+QPushButton#okButton {
+    color : white;
+    background-color : green;
+}
+
+QPushButton#cancelButton {
+    color : white;
+    background-color : red;
+}
+*/
